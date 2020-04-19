@@ -1,1 +1,4 @@
 theme: jekyll-theme-slate
+title: Put your creative title here
+header_pages:
+  - index.md
