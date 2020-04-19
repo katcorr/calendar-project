@@ -1,6 +1,7 @@
 ---
 title: "My creative title here"
 author: "Name here"
+theme: jekyll-theme-merlot
 subtitle: My subtitle (if desired) here
 ---
 
@@ -45,9 +46,16 @@ Create a "img" folder within your calendar-project repo and store the image file
 I collected data by . . . 
 
 I can write a bulleted list like this:
+
 - here's the first thing I want to say
 - and I also want to say this
 - lastly, this
+
+And a numbered list like this:
+
+1. First thing
+2. Second thing
+3. Third thing
 
 # Results
 
