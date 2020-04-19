@@ -1,7 +1,4 @@
 ---
-title: "My creative title here"
-author: "Name here"
-subtitle: My subtitle (if desired) here
 output: md_document
 always_allow_html: yes
 ---
@@ -60,9 +57,8 @@ And a numbered list like this:
 
 # Results
 
-And here are my results
+And here are my results . . .
 
 ```{r}
 # intersperse relevant figures and text
 ```
-

@@ -37,6 +37,6 @@ And a numbered list like this:
 Results
 =======
 
-And here are my results
+And here are my results . . .
 
     # intersperse relevant figures and text
